@@ -6,4 +6,5 @@ In this project, Microsoft SQL & Power BI are used respectively to curate data a
 
 - [Gary Nguyen](https://www.github.com/garynguyen1295)
 
-- Tri Nguyen
+- [Tri Nguyen](https://www.linkedin.com/in/tri-nguyen-alameda)
+
